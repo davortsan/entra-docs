@@ -112,7 +112,7 @@ Global Secure Access provides visibility into the number of users and devices th
 
 - **Sign-ins**: The number of sign-ins through Microsoft Entra ID to Microsoft services in the last 24 hours. This widget provides you with information about the activity in your tenant. 
 - **Total distinct tenants**: The number of distinct tenant IDs seen in the last 24 hours.
-- **Unseen tenants**: The number of distinct tenant IDs that were seen in the last 24 hours, but not in the previous seven days.
+- **Unseen tenants**: The number of distinct tenant IDs that were seen in the last seven days, but not in the previous 24 hours.
 - **Users**: The number of distinct user sign-ins to other tenants in the last 24 hours. 
 - **Devices**: The number of distinct devices that signed in to other tenants in the last 24 hours.
 
